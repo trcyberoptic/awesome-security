@@ -18,7 +18,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
     - [Sniffer](#sniffer)
     - [Security Information & Event Management](#security-information--event-management)
     - [VPN](#vpn)
-    - [Fast Packet Processing](#fast-packet-processing)h
+    - [Fast Packet Processing](#fast-packet-processing)
     - [Firewall](#firewall)
     - [Anti-Spam](#anti-spam)
     - [Docker](#docker-images-for-penetration-testing--security)
