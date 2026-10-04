@@ -64,7 +64,6 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 ### Scanning / Pentesting
 
 - [OpenVAS](http://www.openvas.org/) - OpenVAS is a framework of several services and tools offering a comprehensive and powerful vulnerability scanning and vulnerability management solution.
-- [openvas-tracker](https://github.com/trcyberoptic/openvas-tracker) - Vulnerability management dashboard for OpenVAS/Greenbone with automated ticketing, scan comparison, LDAP auth, and risk acceptance rules. Single Go binary with embedded React UI.
 - [Metasploit Framework](https://github.com/rapid7/metasploit-framework) - A tool for developing and executing exploit code against a remote target machine. Other important sub-projects include the Opcode Database, shellcode archive and related research.
 - [Kali](https://www.kali.org/) - Kali Linux is a Debian-derived Linux distribution designed for digital forensics and penetration testing. Kali Linux is preinstalled with numerous penetration-testing programs, including nmap (a port scanner), Wireshark (a packet analyzer), John the Ripper (a password cracker), and Aircrack-ng (a software suite for penetration-testing wireless LANs).
 - [tsurugi](https://tsurugi-linux.org/) - heavily customized Linux distribution that designed to support DFIR investigations, malware analysis and OSINT activities. It is based on Ubuntu 20.04(64-bit with a 5.15.12 custom kernel)
@@ -85,6 +84,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper) - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
 - [Deepfence SecretScanner](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems.
 - [Cognito Scanner](https://github.com/padok-team/cognito-scanner) - CLI tool to pentest Cognito AWS instance. It implements three attacks: unwanted account creation, account oracle and identity pool escalation
+- [OpenVAS-Tracker](https://github.com/trcyberoptic/openvas-tracker) - Vulnerability management dashboard that imports OpenVAS/Greenbone and ZAP scan results, opens a ticket per finding and host, marks tickets fixed once consecutive rescans no longer find the issue, and offers scan comparison, risk acceptance rules and LDAP/Active Directory login.
 
 ### Monitoring / Logging
 - [BoxyHQ](https://github.com/retracedhq/retraced) - Open source API for security and compliance audit logging.
